@@ -13,7 +13,7 @@ This project demonstrates how to generate text using a Long Short-Term Memory (L
 ## Usage
 To get started, clone the repository and install the required packages:
 
-git clone <repository-url>
+git clone https://github.com/kapedalex/Text_generation_LSTM.git
 cd Text_generation_LSTM
 pip install torch numpy
 python main.py
